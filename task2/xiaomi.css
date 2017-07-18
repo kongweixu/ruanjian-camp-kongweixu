@@ -1,0 +1,53 @@
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr, acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong, sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption, tbody,tfoot,thead,tr,th,td{border:0;outline:0;vertical-align:baseline; background:transparent;margin:0;padding:0;}
+body{line-height:1;}
+ol,ul{list-style:none;}
+blockquote,q{quotes:none;}
+blockquote:before,blockquote:after,q:before,q:after{content:none;}
+:focus{outline:0;}
+ins{text-decoration:none;}
+del{text-decoration:line-through;}
+table{border-collapse:collapse;border-spacing:0;}
+
+.site-topbar{background: #333;}
+.site-topbar-container{color: #b0b0b0;font-size: 12px;height: 40px;line-height: 40px}
+.site-topbar-nav{width: 963.53px;}
+.site-topbar-info{width: 142.47px;}
+.site-topbar-btn{display: block;width: 120px;height: 40px;color: #b0b0b0;background-color: #424242;text-align: center;}
+a:link,a:visited,a:hover{text-decoration: none;cursor: pointer;}  /*去掉链接的下划线*/
+.site-topbar-nav a:link,
+.site-topbar-info a:link{color: #b0b0b0;}
+.site-topbar-nav a:visited,
+.site-topbar-info a:visited{color: #b0b0b0;}
+.site-topbar-nav a:hover,
+.site-topbar-info a:hover{color:white;}
+.site-topbar-btn:hover{color: orangered;background-color: white}
+
+.site-header{background-color: white;}
+.site-header-container{position:relative;height: 100px;}
+.header-logo{width: 62px;padding-top: 22px;}
+.header-list a{font-size: 16px;color: black;}
+li{display: list-item;}
+li a{display: block;}
+.header-gif{padding-top: 12px}
+.nav-item1{width: 84px;height: 100px;}.nav-item2{width: 52px;height: 100px;}.nav-item3{width: 114.22px;height: 100px;}
+.nav-item4{width: 52px;height: 100px;}.nav-item5{width: 98.22px;height: 100px;}.nav-item6{width: 68px;height: 100px;}
+.nav-item7{width: 84px;height: 100px;}.nav-item8{width: 52px;height: 100px;}.nav-item9{width: 52px;height: 100px;}
+.search-input{position: absolute;right: 51px;border: 1px  solid #e0e0e0;border-right:none;width: 245px;height: 46px;margin-top: 24px;margin-bottom: 24px;}
+.search-btn{background-color:white;position: absolute;right: 0px;border: 1px solid #e0e0e0;width: 52px;height: 50px;margin-top: 24px;margin-bottom: 24px;}
+
+.home-hero-container{position:relative;width: 1226px;height: 644px;overflow: hidden}
+.home-hero-slider{height: 460px;font-size: 14px;}
+.home-hero-image{position: relative;}
+.home-hero-category{height: 460px;position:absolute;z-index:2;top:0;left:0;background:#333;}
+.home-hero-list{width:234px;height: 420px;padding:20px 0 20px 0;}
+li{width: 234px;height: 42px;line-height: 42px;}
+.home-hero-list-title{position: relative;display:block;width:204px;height:42px;padding-left: 30px;color:#fff;}
+.home-hero-list i{position:absolute;right:20px;font-size: 16px;}
+
+
+
+
+/*通用格式*/
+.center{width:1226px; margin:0 auto;}
+.fl{float: left;}
+.fr{float: right;}
